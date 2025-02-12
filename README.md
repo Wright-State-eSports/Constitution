@@ -12,33 +12,30 @@
 >
 > The purpose of Wright State eSports is to foster a community for Wright State students interested in competitive and casual video game play. The organization aims to:
 >
-> - Promote friendship and camaraderie. Challenge students in teamwork, problem solving, leadership, and decision-making
-> - Provide a stimulating gaming environment
-> - Encourage competitive spirit within and beyond Wright State
+> - Promote friendship and camaraderie.
+> - Challenge students in teamwork, problem solving, leadership, and decision-making.
+> - Provide a stimulating gaming environment.
+> - Encourage competitive spirit within and beyond Wright State.
 
-### Article III: Membership
+## Article III: Membership
 
 > ### Section 1
 >
 > Membership is open to all currently enrolled Wright State University students.
 >
-> (Alumni, faculty, and guests will not be considered as members of the organization, but participation is welcome.)
+> (Alumni, faculty, and guests will not be considered as members of the organization, but participation is welcome and encouraged).
 
 > ### Section 2
 >
-> Membership requires registration with Engage and adherence to university policies.
+> Memberships shall be granted after following the registration process provided in the Discord server which includes a registration to our Engage page with adherence to the University policies.
 
 > ### Section 3
 >
-> Members must be in good standing with the University. Membership can be terminated for failure to adhere to organization guidelines or for inappropriate behavior, as determined by a simple majority vote of officers
-
-<!-- # TODO, make the votes 2/3 -->
+> Members must be in good standing with the University. Membership can be terminated for failure to adhere to organization guidelines or for inappropriate behavior, as determined by a simple two-thirds (⅔) majority vote of officers
 
 > ### Section 4
 >
 > Members are granted the ability to participate in officer elections if and only if the length of their membership is at least one (1) semester of six (6) months long without any outstanding issues with the organization and the University.
-
----
 
 ## Article IV: Officers, Governance, and Committee Structure
 
@@ -52,11 +49,11 @@
 
 > ### Section 3
 >
-> At the beginning or end of the election season, the President-elect appoints the Secretary and PR. The cabinet (comprising elected officers) nominates any additional officer positions. <!--Public Relations-->
+> At the beginning or end of the election season, the President-elect and the Vice President-elect may appoints one of either the Secretary and Public Relations allowing the other to appoint the role left.
 
 > ### Section 4
 >
-> Any appointments made by the President can be overturned by a simple two-thirds (⅔) majority vote of the committee.
+> The cabinet shall be comprised of the elected officers (President, Vice President, and Treasurer) and the appointed officers (Secretary and Public Relations). The cabinet may nominate any additional committee positions as necessary for any responsibility delegations, which will be a part of the committee.
 
 > ### Section 5
 >
@@ -72,30 +69,38 @@
 > 3. **Treasurer**
 >    - Handle all incoming and outgoing funds of organization.
 >    - Keep track of the organization's financial records and dues.
->    - Create financial reports on each of the monthly meetings <!--Maybe remove this? -->
+>    - Create financial reports of the organization when it is requested.
 > 4. **Secretary**
->    - Maintains records and membership registration.
->    - Maintains schedules for facility managers, and team practices and tournaments.
+>    - Maintain records and membership registration.
+>    - Maintain schedules for facility managers, and team practices and tournaments.
 >    - Maintaining order and moderation of the Discord server.
 >    - Managing Engage events.
-> 5. **Public Relations and Outreach** <!--Erm, we forgot to change this -->
+> 5. **Public Relations**
 >    - Upholding a positive public image of the organization
->    - Oversee and <!--GRAMMAR ERR--> any social media presence and activity of the organization
+>    - Oversee and manage any social media presence and activity of the organization
 >    - Keeping members and the public informed of organization events and initiatives
->    - Manages content-team
->      - If a content-team is assembled by the Public Relations officer, it is their duty to make sure that they uphold the constitution
+>    - Manages content team
+>      - make sure that the content team and its members uphold the constitution
 >      - Relay information in between the committee and the content team.
 >      - Resolve any conflict that may arise within the content team.
 
 > ### Section 6
 >
-> The President has the authority to initiate a veto on policies or decisions for emergency actions, with the agreement of a simple two-thirds (⅔) majority of the Cabinet.
+> The content team may be assembled by the Public Relations officer. It shall be lead by a Content Team Lead that is appointed by the Public Relations officer and agreed upon with the cabinet. The content team has no specific outlying structure to follow and it is up to the Public Relations and Content Team Lead to decide how the structure of the team should be made.
+>
+> The Public Relations and Content Team Lead shall select the members that will be a part of the team, and members must be hold accountable to the constitution and the content they make.
+>
+> Any content created by the team must be screened by the Content Team Lead which then will be sent to the Public Relations officer to be approved for publish. The content made must abide to the Creative Commons and shall not contain any copyrighted content without approval by the owner of the content. This includes any content released to our social media accounts and live streams.
 
 > ### Section 7
 >
-> Impeachment of officers require a simple two-thirds (⅔) majority vote of officers for gross misconduct or failure to perform duties. If an officer was impeached out of office, they are not allowed to rerun for any roles of the committee
+> The President has the authority to initiate a veto on policies or decisions for emergency actions, with the agreement of a simple two-thirds (⅔) majority of the cabinet.
+>
+> Any appointments made by the President can be overturned by a simple two-thirds (⅔) majority vote of the committee.
 
-<!-- Make more strict grammar -->
+> ### Section 8
+>
+> Impeachment of officers require a simple two-thirds (⅔) majority vote of officers for gross misconduct or failure to perform duties. If an officer was impeached out of office, they are prohibited to rerun for any roles of the committee.
 
 ## Article V: Competitive Teams
 
@@ -122,20 +127,22 @@
 
 > ### Section 5
 >
-> Should a player disagree with a decision made by their Team Manager, they may notify the Vice President. The Vice President will review the decision and consult with the Cabinet <!-- to --> decide on whether the decision made by the Team Manager is reasonable.
+> Should a player disagree with a decision made by their Team Manager, they may notify the Vice President. The Vice President will review the decision and consult with the cabinet to decide on whether the decision made by the Team Manager is reasonable.
 
 > ### Section 6
 >
-> The responsibilities of the Team Manager include <!--s--> but are not limited to:
+> The responsibilities of the Team Manager includes but are not limited to:
 >
-> - scheduling and tournament registrations of ALL competitive teams of their respective games,
-> - mediate and resolve any internal issues within their respective teams of their games before escalating the issue to the cabinet.
-> - ensure accountabilities for ALL members of their respective games,
-> - installing and regularly updating their respective games before their matches/practices on the computers being used.
+> - Scheduling and tournament registrations of ALL competitive teams of their respective games.
+> - Mediate and resolve any internal issues within their respective teams of their games before escalating the issue to the cabinet.
+> - Ensure accountabilities for ALL members of their respective games,
+> - Installing and regularly updating their respective games before their matches/practices on the computers being used.
 
 > ### Section 7
 >
-> All Team Manager responsibilities may be delegated to each teams' coaches and captains. All responsibility delegated must be properly documented to ensure accountability for responsibilities. The Team Manager shall ultimately have the final responsibility and decision on any matter concerning their teams.
+> All Team Manager responsibilities may be delegated to each teams' coaches and captains. All responsibility delegated must be properly documented to ensure accountability for responsibilities.
+>
+> The Team Manager shall ultimately have the final responsibility and decision on any matter concerning their teams.
 
 > ### Section 8
 >
@@ -145,13 +152,13 @@
 
 > ### Section 1
 >
-> The Wright State eSports shall provide the necessary facilities for all competitive teams according to the availability of said facility <!-- word better -->
+> The Wright State eSports shall provide the necessary facilities for all competitive teams as long as the availability of the facilities permit.
 
 > ### Section 2
 >
-> The upkeep of the eSports facility shall be maintained by Facility Managers appointed by the Cabinet members. The responsibilities of the Facility Manager shall include, but are not limited to:
+> The upkeep of the eSports facility shall be maintained by Facility Managers appointed by the cabinet members. The responsibilities of the Facility Manager shall include, but are not limited to:
 >
-> - regularly checks and cleans all the <!-- fix grammar --> facility's equipment, which includes any computers, consoles, peripherals, and furniture,
+> - regularly checks and cleans all of the facility's equipment, which includes any computers, consoles, peripherals, and furniture,
 > - regularly opening the facility according to the agreed upon schedules.
 
 > ### Section 3
@@ -160,23 +167,27 @@
 
 > ### Section 4
 >
-> The competitive rooms shall be reserved for ONLY competitive players. No members that are not a part of any competitive teams shall not use these rooms.
+> The competitive rooms shall have computers specifically assigned for competitive teams. The competitive rooms are reserved ONLY for the competitive players and only members of a competitive teams are permitted to use the facilities of the rooms.
 
 > ### Section 5
 >
-> The non-competitive rooms (which may be referred to as party rooms) are a public space that any member may use.
+> The non-competitive rooms (which may be referred to as party room) are public spaces that may have computers and/or consoles that any members and guests of the organization are allowed to use.
 
-> ### Section 6 <!--!-->
+> ### Section 6
 >
-> The conference rooms may be reserved by any member with Cabinet approval to be used for meetings or general use.
+> The lounge area serves as a public space that anyone to come in to socialize and/or work. The conference rooms may be reserved by any member with cabinet approval to be used for meetings or general use.
 
 > ### Section 7
 >
-> Any guests that a member brings into the facility shall be the responsibility of said member. Any damage to the facility caused by a member of a guest associated with, will be responsible for any financial reimbursement of the damage.
+> Any heavy food and drinks, anything other than light snacks or tight sealed containers for drinks, are prohibited to be consumed around any of the rooms above. The facility shall have a dedicated space for members and guests to eat and drink and a facility manager or cabinet members may direct you to these areas.
 
 > ### Section 8
 >
-> The Facility Managers shall be granted card access to the facility. Should access be abused by not upholding their responsibilities as listed above, card access will be revoked.
+> Any guests that a member brings into the facility shall be the responsibility of said member. Any damage to the facility caused by a member of a guest associated with, will be responsible for any financial reimbursement of the damage.
+
+> ### Section 9
+>
+> The facility managers shall be granted card access to the facility. Should access be abused by not upholding their responsibilities as listed above, card access will be revoked.
 
 ## Article VII: Meetings and Communications
 
@@ -184,7 +195,7 @@
 >
 > Meetings shall be held to discuss organizational progress, upcoming events, financial status, and goals of the organization going forth.
 >
-> Special meetings can be called upon by the Cabinet as necessary.
+> Special meetings can be called upon by the cabinet as necessary.
 
 > ### Section 2
 >
@@ -194,7 +205,7 @@
 
 > ### Section 1
 >
-> Amendments to this Constitution require a simple two-thirds (⅔) majority vote of all officers. All proposed changes must be discussed and agreed upon in a formal meeting.
+> Amendments to this Constitution require a simple two-thirds (⅔) majority vote of the cabinet. All proposed changes must be discussed and agreed upon in a formal meeting.
 
 ---
 
