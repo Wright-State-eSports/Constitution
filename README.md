@@ -179,7 +179,7 @@
 
 > ### Section 7
 >
-> Any heavy food and drinks, anything other than light snacks or tight sealed containers for drinks, are prohibited to be consumed around any of the rooms above. The facility shall have a dedicated space for members and guests to eat and drink and a facility manager or cabinet members may direct you to these areas.
+> Any large food and drinks, anything other than light snacks or tight sealed containers for drinks, are prohibited to be consumed around any of the rooms above. The facility will have a dedicated space for members and guests to eat and drink and a facility manager or cabinet member may direct you to these areas.
 
 > ### Section 8
 >
