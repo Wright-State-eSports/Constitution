@@ -1,5 +1,7 @@
 ## _**DISCLAIMER: This README is not the actual constitution for Wright State, it is just a version that is easier to read and reference**_
 
+## _**CURRENTLY NOT UPDATED WITH THE LATEST VERSION OF THE CONSTITUTION**_
+
 # Wright State eSports Constitution
 
 ## Article I: Name
