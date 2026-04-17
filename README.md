@@ -1,12 +1,16 @@
-## _**DISCLAIMER: This README is not the actual constitution for Wright State, it is just a version that is easier to read and reference**_
-
 # Wright State eSports Constitution
+
+> This document shall be effective from [INSERT DATE].
 
 ## Article I: Name
 
 > ### Section 1
 >
 > The name of this organization shall be the Wright State eSports.
+
+> ### Section 2
+>
+> This document shall serve as the most up-to-date version of the Wright State eSports Consitution. In the event of a discrepancy, the most up-to-date revision displayed on Github shall trump any and all posted effective dates.
 
 ## Article II: Purpose
 
@@ -38,6 +42,12 @@
 > ### Section 4
 >
 > Members are granted the ability to participate in officer elections if and only if the length of their membership is at least one (1) semester of six (6) months long without any outstanding issues with the organization and the University.
+
+> ### Section 5
+>
+> Members offered a position on any team receiving funding for a given tournament series are required to participate for a complete Academic Year, as defined by Wright State University.
+> 
+> Members are required to sign an Intent to Compete (IoC) form with Wright State University barring the transfer of a competitor to another university or professional organization until the end of the Academic Year.
 
 ## Article IV: Officers, Governance, and Committee Structure
 
@@ -190,6 +200,30 @@
 > ### Section 9
 >
 > The facility managers shall be granted card access to the facility. Should access be abused by not upholding their responsibilities as listed above, card access will be revoked.
+
+> ### Section 10
+>
+> In the event that facilities are limited and multiple teams have conflicting events at any given time, the following procedure
+shall determine which team will have priority choice of a competitive room:
+> 
+> In the event that two teams under the same title are in conflict;
+>   1. The Team Manager, Room Manager, or Cabinet reserve the right to determine the priority of a given team based on need.
+> 
+> In the event that two teams under different titles are in conflict;
+>   1. Club-Sponsored Tournaments;
+> > Teams who are in an active tournament series paid for, or otherwise sponsored by, the eSports club receive priority over all other tournaments.
+>
+>   2. Scheduling
+> > In the event that the above is true, teams that have not provided a minimum twenty-four hours notice shall be disqualified from room priority.
+>
+>   3. Division
+> > In the event that the above is true, teams that are a higher division shall receive higher priority. Gold teams shall receive priority over Green teams, and so forth.
+> 
+>   4. Membership Presence
+> > In the event that the above is true, teams that have a higher membership will have priority over those with a lower membership. For example, a team who only has three members shall be lower priority than one who has six.
+>
+>   5. Match Record
+> > In the event that the above is true, teams that have a greater recognized placement in their given division will have higher priority than those that are lower.
 
 ## Article VII: Meetings and Communications
 
