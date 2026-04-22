@@ -146,6 +146,7 @@
 > The responsibilities of the Team Manager includes but are not limited to:
 >
 > - Scheduling and tournament registrations of ALL competitive teams of their respective games.
+> - Scheduling and organizing at least one public tryout for their competitive teams.
 > - Mediate and resolve any internal issues within their respective teams of their games before escalating the issue to the cabinet.
 > - Ensure accountabilities for ALL members of their respective games,
 > - Installing and regularly updating their respective games before their matches/practices on the computers being used.
@@ -159,6 +160,11 @@
 > ### Section 8
 >
 > A competitive team shall have a team Captain that is unanimously selected by their respective teams. The team Captain shall bear the responsibilities delegated to them by their respective Team Manager.
+
+> ### Section 9
+>
+> In order to be eligible for funding from the organization, all competitive teams are required to host at least one public tryout per academic year, available to all students at Wright State University.
+> Team Managers shall be responsible for the organization and reservation of facilities for tryouts, and shall have their tryout reservations complete at least one month in advance to the actual date.
 
 ## Article VI: Organization facilities
 
