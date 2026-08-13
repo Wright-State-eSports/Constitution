@@ -251,4 +251,4 @@ shall determine which team will have priority choice of a competitive room:
 
 ---
 
-_This constitution now fully integrates the structured approach to officer appointments and the checks and balances on the President's authority by the cabinet, ensuring a democratic and collaborative governance structure for Wright State eSports_
+_This constitution establishes codified room dispute resolution for facilities, eligibility for funding for individual teams, revisions to the duties of team managers and establishes this repository as a primary source for the Wright State eSports Constitution, alongside Engage._
