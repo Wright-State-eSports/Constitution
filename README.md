@@ -1,7 +1,5 @@
 # Wright State eSports Constitution
 
-> This document shall be effective from [INSERT DATE].
-
 ## Article I: Name
 
 > ### Section 1
